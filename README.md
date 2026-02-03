@@ -16,6 +16,4 @@ I’m currently working on an iot project coupled to a flutter application for a
 ![](https://github-profile-trophy.vercel.app/?username=noiia&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=noiia &icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=noiia&icon=0&color=0)](https://visitcount.itsvg.in)
