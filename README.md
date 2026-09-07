@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on an iot project coupled to a flutter application for an academic project.<br>I’m passionate by go developing.<br>I love docker and self-hosting.
+I’m passionate by go developing.<br>I love docker and self-hosting.
 
 
 ## 🌐 Socials:
